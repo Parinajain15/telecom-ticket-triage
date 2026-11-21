@@ -1,0 +1,601 @@
+ticket_id,complaint_text,department,urgency
+TKT-1001,Urgent: Want to port my number from another operator to your network. Ticket raised earlier.,SIM_Activation,Normal
+TKT-1002,"Wi-Fi router red LOS light is blinking continuously, no internet. Ticket raised earlier.",Broadband_Tech,High
+TKT-1003,Urgent: Need a copy of my GST invoice for last month's recharge. Ticket raised earlier.,Billing,Normal
+TKT-1004,"Hello, Lost my phone, please block my SIM immediately to prevent fraud. Kindly resolve ASAP.",SIM_Activation,High
+TKT-1005,"Router power adapter stopped working, need replacement. Kindly resolve ASAP.",Broadband_Tech,High
+TKT-1006,"Please help! Lost my phone, please block my SIM immediately to prevent fraud. Kindly resolve ASAP.",SIM_Activation,High
+TKT-1007,"Urgent: Lost my phone, please block my SIM immediately to prevent fraud. Kindly resolve ASAP.",SIM_Activation,High
+TKT-1008,Auto-pay deducted money twice from my bank account. Thanks.,Billing,High
+TKT-1009,Urgent: Zero network bars inside my apartment for the last 2 days.,Network,High
+TKT-1010,"Please help! No mobile signal in my area since morning, emergency calls only. Thanks.",Network,High
+TKT-1011,Urgent: Need a copy of my GST invoice for last month's recharge. Kindly resolve ASAP.,Billing,Normal
+TKT-1012,Please help! Frequent call drops during important office meetings. Kindly resolve ASAP.,Network,High
+TKT-1013,Urgent: Frequent call drops during important office meetings.,Network,High
+TKT-1014,Please help! Zero network bars inside my apartment for the last 2 days. Thanks.,Network,High
+TKT-1015,"Urgent: No mobile signal in my area since morning, emergency calls only. Kindly resolve ASAP.",Network,High
+TKT-1016,Urgent: How do I change my broadband Wi-Fi password and SSID?,Broadband_Tech,Normal
+TKT-1017,"Hello, Wi-Fi router red LOS light is blinking continuously, no internet.",Broadband_Tech,High
+TKT-1018,"Hello, Frequent call drops during important office meetings.",Network,High
+TKT-1019,Urgent: How do I change my broadband Wi-Fi password and SSID? Kindly resolve ASAP.,Broadband_Tech,Normal
+TKT-1020,"Hi team, Mobile data keeps disconnecting while switching towers. Ticket raised earlier.",Network,Normal
+TKT-1021,"Hi team, Wi-Fi router red LOS light is blinking continuously, no internet.",Broadband_Tech,High
+TKT-1022,Auto-pay deducted money twice from my bank account.,Billing,High
+TKT-1023,"Please help! Router power adapter stopped working, need replacement. Thanks.",Broadband_Tech,High
+TKT-1024,Urgent: How do I change my broadband Wi-Fi password and SSID? Kindly resolve ASAP.,Broadband_Tech,Normal
+TKT-1025,Urgent: Please explain the extra value-added service fee on my statement.,Billing,Normal
+TKT-1026,"Hello, How do I upgrade my physical SIM to an eSIM? Thanks.",SIM_Activation,Normal
+TKT-1027,"Hello, Wi-Fi router red LOS light is blinking continuously, no internet.",Broadband_Tech,High
+TKT-1028,"Urgent: My new eSIM activation is stuck for 24 hours, number is dead.",SIM_Activation,High
+TKT-1029,"Hi team, Router power adapter stopped working, need replacement.",Broadband_Tech,High
+TKT-1030,Urgent: Want to port my number from another operator to your network. Ticket raised earlier.,SIM_Activation,Normal
+TKT-1031,"Hi team, KYC verification completed yesterday but SIM still shows no service.",SIM_Activation,High
+TKT-1032,Urgent: High ping and packet loss on fiber broadband connection. Kindly resolve ASAP.,Broadband_Tech,Normal
+TKT-1033,"Hi team, Please explain the extra value-added service fee on my statement. Thanks.",Billing,Normal
+TKT-1034,"Hello, Need a copy of my GST invoice for last month's recharge. Thanks.",Billing,Normal
+TKT-1035,Please help! Need a copy of my GST invoice for last month's recharge. Thanks.,Billing,Normal
+TKT-1036,"Hi team, Mobile data keeps disconnecting while switching towers. Kindly resolve ASAP.",Network,Normal
+TKT-1037,Urgent: Frequent call drops during important office meetings. Ticket raised earlier.,Network,High
+TKT-1038,"Hi team, How do I upgrade my physical SIM to an eSIM? Ticket raised earlier.",SIM_Activation,Normal
+TKT-1039,"Hello, Mobile data keeps disconnecting while switching towers. Ticket raised earlier.",Network,Normal
+TKT-1040,Urgent: Frequent call drops during important office meetings.,Network,High
+TKT-1041,Please help! Zero network bars inside my apartment for the last 2 days.,Network,High
+TKT-1042,"Lost my phone, please block my SIM immediately to prevent fraud. Ticket raised earlier.",SIM_Activation,High
+TKT-1043,Please help! Please explain the extra value-added service fee on my statement.,Billing,Normal
+TKT-1044,"Hi team, Zero network bars inside my apartment for the last 2 days. Ticket raised earlier.",Network,High
+TKT-1045,High ping and packet loss on fiber broadband connection. Ticket raised earlier.,Broadband_Tech,Normal
+TKT-1046,"Hi team, Router power adapter stopped working, need replacement. Kindly resolve ASAP.",Broadband_Tech,High
+TKT-1047,Please help! Unexpected roaming charges added to my bill without international travel. Ticket raised earlier.,Billing,High
+TKT-1048,Urgent: Auto-pay deducted money twice from my bank account. Thanks.,Billing,High
+TKT-1049,5G internet speed drops completely every evening in Bhubaneswar. Thanks.,Network,Normal
+TKT-1050,Zero network bars inside my apartment for the last 2 days. Kindly resolve ASAP.,Network,High
+TKT-1051,Please help! 5G internet speed drops completely every evening in Bhubaneswar. Kindly resolve ASAP.,Network,Normal
+TKT-1052,Please help! I was charged twice for my monthly postpaid bill this cycle. Kindly resolve ASAP.,Billing,High
+TKT-1053,Urgent: Want to port my number from another operator to your network.,SIM_Activation,Normal
+TKT-1054,"Hi team, Unexpected roaming charges added to my bill without international travel. Thanks.",Billing,High
+TKT-1055,Please help! KYC verification completed yesterday but SIM still shows no service. Thanks.,SIM_Activation,High
+TKT-1056,"Hello, Want to port my number from another operator to your network.",SIM_Activation,Normal
+TKT-1057,"Hi team, Want to port my number from another operator to your network.",SIM_Activation,Normal
+TKT-1058,"Hi team, Frequent call drops during important office meetings. Ticket raised earlier.",Network,High
+TKT-1059,Urgent: Need a copy of my GST invoice for last month's recharge. Ticket raised earlier.,Billing,Normal
+TKT-1060,Please help! Please explain the extra value-added service fee on my statement. Ticket raised earlier.,Billing,Normal
+TKT-1061,"Please help! Lost my phone, please block my SIM immediately to prevent fraud.",SIM_Activation,High
+TKT-1062,Urgent: Unexpected roaming charges added to my bill without international travel. Ticket raised earlier.,Billing,High
+TKT-1063,"Hi team, KYC verification completed yesterday but SIM still shows no service.",SIM_Activation,High
+TKT-1064,Urgent: Unexpected roaming charges added to my bill without international travel.,Billing,High
+TKT-1065,"Hi team, Auto-pay deducted money twice from my bank account. Thanks.",Billing,High
+TKT-1066,Need a copy of my GST invoice for last month's recharge.,Billing,Normal
+TKT-1067,Urgent: Need a copy of my GST invoice for last month's recharge.,Billing,Normal
+TKT-1068,Urgent: Zero network bars inside my apartment for the last 2 days. Kindly resolve ASAP.,Network,High
+TKT-1069,"Hello, Need technician visit to shift my fiber router to another room. Thanks.",Broadband_Tech,Normal
+TKT-1070,"Hello, Auto-pay deducted money twice from my bank account. Kindly resolve ASAP.",Billing,High
+TKT-1071,Urgent: Need a copy of my GST invoice for last month's recharge. Kindly resolve ASAP.,Billing,Normal
+TKT-1072,"Hello, Auto-pay deducted money twice from my bank account. Thanks.",Billing,High
+TKT-1073,"Hello, I was charged twice for my monthly postpaid bill this cycle.",Billing,High
+TKT-1074,Please help! High ping and packet loss on fiber broadband connection. Ticket raised earlier.,Broadband_Tech,Normal
+TKT-1075,"Hello, Please explain the extra value-added service fee on my statement. Ticket raised earlier.",Billing,Normal
+TKT-1076,"Hello, Zero network bars inside my apartment for the last 2 days.",Network,High
+TKT-1077,Urgent: Want to port my number from another operator to your network. Thanks.,SIM_Activation,Normal
+TKT-1078,Please help! Need a copy of my GST invoice for last month's recharge. Kindly resolve ASAP.,Billing,Normal
+TKT-1079,KYC verification completed yesterday but SIM still shows no service. Ticket raised earlier.,SIM_Activation,High
+TKT-1080,Urgent: Please explain the extra value-added service fee on my statement.,Billing,Normal
+TKT-1081,"Hi team, High ping and packet loss on fiber broadband connection. Kindly resolve ASAP.",Broadband_Tech,Normal
+TKT-1082,Urgent: Want to port my number from another operator to your network. Kindly resolve ASAP.,SIM_Activation,Normal
+TKT-1083,"Hi team, Need a copy of my GST invoice for last month's recharge.",Billing,Normal
+TKT-1084,Urgent: Zero network bars inside my apartment for the last 2 days.,Network,High
+TKT-1085,"Hello, 5G internet speed drops completely every evening in Bhubaneswar.",Network,Normal
+TKT-1086,"Hi team, How do I upgrade my physical SIM to an eSIM? Kindly resolve ASAP.",SIM_Activation,Normal
+TKT-1087,"Hi team, Lost my phone, please block my SIM immediately to prevent fraud. Thanks.",SIM_Activation,High
+TKT-1088,"Hello, Lost my phone, please block my SIM immediately to prevent fraud. Ticket raised earlier.",SIM_Activation,High
+TKT-1089,Urgent: How do I change my broadband Wi-Fi password and SSID?,Broadband_Tech,Normal
+TKT-1090,Please help! Need technician visit to shift my fiber router to another room. Kindly resolve ASAP.,Broadband_Tech,Normal
+TKT-1091,Want to port my number from another operator to your network.,SIM_Activation,Normal
+TKT-1092,"Hello, Need a copy of my GST invoice for last month's recharge. Kindly resolve ASAP.",Billing,Normal
+TKT-1093,"Hi team, Unexpected roaming charges added to my bill without international travel. Kindly resolve ASAP.",Billing,High
+TKT-1094,Please help! 5G internet speed drops completely every evening in Bhubaneswar. Kindly resolve ASAP.,Network,Normal
+TKT-1095,Please help! KYC verification completed yesterday but SIM still shows no service. Kindly resolve ASAP.,SIM_Activation,High
+TKT-1096,"Urgent: Wi-Fi router red LOS light is blinking continuously, no internet. Kindly resolve ASAP.",Broadband_Tech,High
+TKT-1097,"Hello, KYC verification completed yesterday but SIM still shows no service. Kindly resolve ASAP.",SIM_Activation,High
+TKT-1098,Want to port my number from another operator to your network.,SIM_Activation,Normal
+TKT-1099,Urgent: Want to port my number from another operator to your network. Ticket raised earlier.,SIM_Activation,Normal
+TKT-1100,"Hello, Mobile data keeps disconnecting while switching towers. Thanks.",Network,Normal
+TKT-1101,"Hello, Unexpected roaming charges added to my bill without international travel.",Billing,High
+TKT-1102,"Hi team, How do I upgrade my physical SIM to an eSIM? Thanks.",SIM_Activation,Normal
+TKT-1103,"Urgent: Router power adapter stopped working, need replacement. Thanks.",Broadband_Tech,High
+TKT-1104,"Hi team, Want to port my number from another operator to your network.",SIM_Activation,Normal
+TKT-1105,"Hello, Lost my phone, please block my SIM immediately to prevent fraud. Thanks.",SIM_Activation,High
+TKT-1106,Need technician visit to shift my fiber router to another room. Thanks.,Broadband_Tech,Normal
+TKT-1107,How do I upgrade my physical SIM to an eSIM? Thanks.,SIM_Activation,Normal
+TKT-1108,Please help! Need a copy of my GST invoice for last month's recharge. Ticket raised earlier.,Billing,Normal
+TKT-1109,Urgent: How do I change my broadband Wi-Fi password and SSID? Ticket raised earlier.,Broadband_Tech,Normal
+TKT-1110,Please help! Zero network bars inside my apartment for the last 2 days.,Network,High
+TKT-1111,Please help! High ping and packet loss on fiber broadband connection. Ticket raised earlier.,Broadband_Tech,Normal
+TKT-1112,Urgent: Need a copy of my GST invoice for last month's recharge. Thanks.,Billing,Normal
+TKT-1113,"Please help! Lost my phone, please block my SIM immediately to prevent fraud. Ticket raised earlier.",SIM_Activation,High
+TKT-1114,Please help! KYC verification completed yesterday but SIM still shows no service. Ticket raised earlier.,SIM_Activation,High
+TKT-1115,"Router power adapter stopped working, need replacement. Ticket raised earlier.",Broadband_Tech,High
+TKT-1116,"Hello, Lost my phone, please block my SIM immediately to prevent fraud.",SIM_Activation,High
+TKT-1117,"Hi team, Need a copy of my GST invoice for last month's recharge. Kindly resolve ASAP.",Billing,Normal
+TKT-1118,Urgent: Mobile data keeps disconnecting while switching towers.,Network,Normal
+TKT-1119,High ping and packet loss on fiber broadband connection. Kindly resolve ASAP.,Broadband_Tech,Normal
+TKT-1120,Please help! Want to port my number from another operator to your network. Kindly resolve ASAP.,SIM_Activation,Normal
+TKT-1121,"Hi team, Please explain the extra value-added service fee on my statement. Thanks.",Billing,Normal
+TKT-1122,Urgent: 5G internet speed drops completely every evening in Bhubaneswar. Thanks.,Network,Normal
+TKT-1123,I was charged twice for my monthly postpaid bill this cycle. Ticket raised earlier.,Billing,High
+TKT-1124,"Urgent: No mobile signal in my area since morning, emergency calls only. Thanks.",Network,High
+TKT-1125,Urgent: Unexpected roaming charges added to my bill without international travel. Thanks.,Billing,High
+TKT-1126,"Hello, KYC verification completed yesterday but SIM still shows no service.",SIM_Activation,High
+TKT-1127,Auto-pay deducted money twice from my bank account. Kindly resolve ASAP.,Billing,High
+TKT-1128,Zero network bars inside my apartment for the last 2 days. Thanks.,Network,High
+TKT-1129,Please help! How do I upgrade my physical SIM to an eSIM? Ticket raised earlier.,SIM_Activation,Normal
+TKT-1130,"Urgent: Lost my phone, please block my SIM immediately to prevent fraud. Thanks.",SIM_Activation,High
+TKT-1131,"Hi team, High ping and packet loss on fiber broadband connection.",Broadband_Tech,Normal
+TKT-1132,Please help! Zero network bars inside my apartment for the last 2 days. Kindly resolve ASAP.,Network,High
+TKT-1133,"My new eSIM activation is stuck for 24 hours, number is dead. Kindly resolve ASAP.",SIM_Activation,High
+TKT-1134,"Hello, Lost my phone, please block my SIM immediately to prevent fraud. Kindly resolve ASAP.",SIM_Activation,High
+TKT-1135,Please help! I was charged twice for my monthly postpaid bill this cycle. Thanks.,Billing,High
+TKT-1136,High ping and packet loss on fiber broadband connection. Ticket raised earlier.,Broadband_Tech,Normal
+TKT-1137,Urgent: Mobile data keeps disconnecting while switching towers. Ticket raised earlier.,Network,Normal
+TKT-1138,Please help! 5G internet speed drops completely every evening in Bhubaneswar.,Network,Normal
+TKT-1139,"Hi team, Want to port my number from another operator to your network.",SIM_Activation,Normal
+TKT-1140,Urgent: How do I change my broadband Wi-Fi password and SSID? Kindly resolve ASAP.,Broadband_Tech,Normal
+TKT-1141,"Hello, Want to port my number from another operator to your network. Ticket raised earlier.",SIM_Activation,Normal
+TKT-1142,"Lost my phone, please block my SIM immediately to prevent fraud. Ticket raised earlier.",SIM_Activation,High
+TKT-1143,Urgent: Need technician visit to shift my fiber router to another room.,Broadband_Tech,Normal
+TKT-1144,"Hi team, Auto-pay deducted money twice from my bank account. Kindly resolve ASAP.",Billing,High
+TKT-1145,Need technician visit to shift my fiber router to another room. Thanks.,Broadband_Tech,Normal
+TKT-1146,Please help! Please explain the extra value-added service fee on my statement. Kindly resolve ASAP.,Billing,Normal
+TKT-1147,Need a copy of my GST invoice for last month's recharge.,Billing,Normal
+TKT-1148,"Hi team, Wi-Fi router red LOS light is blinking continuously, no internet. Thanks.",Broadband_Tech,High
+TKT-1149,How do I change my broadband Wi-Fi password and SSID? Kindly resolve ASAP.,Broadband_Tech,Normal
+TKT-1150,Urgent: How do I upgrade my physical SIM to an eSIM? Thanks.,SIM_Activation,Normal
+TKT-1151,Urgent: Need technician visit to shift my fiber router to another room. Ticket raised earlier.,Broadband_Tech,Normal
+TKT-1152,"Hi team, Wi-Fi router red LOS light is blinking continuously, no internet.",Broadband_Tech,High
+TKT-1153,Urgent: High ping and packet loss on fiber broadband connection.,Broadband_Tech,Normal
+TKT-1154,"Hello, I was charged twice for my monthly postpaid bill this cycle. Thanks.",Billing,High
+TKT-1155,"Hello, Zero network bars inside my apartment for the last 2 days. Ticket raised earlier.",Network,High
+TKT-1156,Zero network bars inside my apartment for the last 2 days. Kindly resolve ASAP.,Network,High
+TKT-1157,"Hello, Unexpected roaming charges added to my bill without international travel.",Billing,High
+TKT-1158,Urgent: Need a copy of my GST invoice for last month's recharge. Thanks.,Billing,Normal
+TKT-1159,Please help! How do I change my broadband Wi-Fi password and SSID? Ticket raised earlier.,Broadband_Tech,Normal
+TKT-1160,"Please help! Lost my phone, please block my SIM immediately to prevent fraud.",SIM_Activation,High
+TKT-1161,How do I upgrade my physical SIM to an eSIM? Thanks.,SIM_Activation,Normal
+TKT-1162,Auto-pay deducted money twice from my bank account. Kindly resolve ASAP.,Billing,High
+TKT-1163,Need a copy of my GST invoice for last month's recharge. Ticket raised earlier.,Billing,Normal
+TKT-1164,"Hello, Lost my phone, please block my SIM immediately to prevent fraud.",SIM_Activation,High
+TKT-1165,I was charged twice for my monthly postpaid bill this cycle. Ticket raised earlier.,Billing,High
+TKT-1166,Urgent: Want to port my number from another operator to your network.,SIM_Activation,Normal
+TKT-1167,Urgent: Zero network bars inside my apartment for the last 2 days. Thanks.,Network,High
+TKT-1168,Please explain the extra value-added service fee on my statement. Thanks.,Billing,Normal
+TKT-1169,"Hello, Wi-Fi router red LOS light is blinking continuously, no internet. Kindly resolve ASAP.",Broadband_Tech,High
+TKT-1170,"Hello, Want to port my number from another operator to your network. Ticket raised earlier.",SIM_Activation,Normal
+TKT-1171,"Hi team, Need a copy of my GST invoice for last month's recharge. Ticket raised earlier.",Billing,Normal
+TKT-1172,Want to port my number from another operator to your network. Ticket raised earlier.,SIM_Activation,Normal
+TKT-1173,Urgent: Mobile data keeps disconnecting while switching towers. Ticket raised earlier.,Network,Normal
+TKT-1174,Please help! Frequent call drops during important office meetings.,Network,High
+TKT-1175,Please help! I was charged twice for my monthly postpaid bill this cycle. Thanks.,Billing,High
+TKT-1176,Urgent: How do I upgrade my physical SIM to an eSIM?,SIM_Activation,Normal
+TKT-1177,"Please help! Wi-Fi router red LOS light is blinking continuously, no internet.",Broadband_Tech,High
+TKT-1178,"Hello, Unexpected roaming charges added to my bill without international travel.",Billing,High
+TKT-1179,Auto-pay deducted money twice from my bank account. Kindly resolve ASAP.,Billing,High
+TKT-1180,"Hello, Zero network bars inside my apartment for the last 2 days. Kindly resolve ASAP.",Network,High
+TKT-1181,Please help! I was charged twice for my monthly postpaid bill this cycle.,Billing,High
+TKT-1182,I was charged twice for my monthly postpaid bill this cycle.,Billing,High
+TKT-1183,"Hi team, KYC verification completed yesterday but SIM still shows no service. Ticket raised earlier.",SIM_Activation,High
+TKT-1184,"Hi team, I was charged twice for my monthly postpaid bill this cycle.",Billing,High
+TKT-1185,"Hi team, Unexpected roaming charges added to my bill without international travel. Ticket raised earlier.",Billing,High
+TKT-1186,5G internet speed drops completely every evening in Bhubaneswar. Kindly resolve ASAP.,Network,Normal
+TKT-1187,Please help! How do I upgrade my physical SIM to an eSIM? Kindly resolve ASAP.,SIM_Activation,Normal
+TKT-1188,Need a copy of my GST invoice for last month's recharge. Thanks.,Billing,Normal
+TKT-1189,"Please help! Router power adapter stopped working, need replacement. Kindly resolve ASAP.",Broadband_Tech,High
+TKT-1190,Urgent: 5G internet speed drops completely every evening in Bhubaneswar. Ticket raised earlier.,Network,Normal
+TKT-1191,"Hello, How do I change my broadband Wi-Fi password and SSID? Kindly resolve ASAP.",Broadband_Tech,Normal
+TKT-1192,"Urgent: Wi-Fi router red LOS light is blinking continuously, no internet. Ticket raised earlier.",Broadband_Tech,High
+TKT-1193,Urgent: Auto-pay deducted money twice from my bank account.,Billing,High
+TKT-1194,"Hi team, No mobile signal in my area since morning, emergency calls only. Kindly resolve ASAP.",Network,High
+TKT-1195,"Hi team, Need technician visit to shift my fiber router to another room. Kindly resolve ASAP.",Broadband_Tech,Normal
+TKT-1196,"Hi team, Please explain the extra value-added service fee on my statement. Kindly resolve ASAP.",Billing,Normal
+TKT-1197,Urgent: High ping and packet loss on fiber broadband connection. Thanks.,Broadband_Tech,Normal
+TKT-1198,"Hello, Need a copy of my GST invoice for last month's recharge. Thanks.",Billing,Normal
+TKT-1199,"Hi team, Lost my phone, please block my SIM immediately to prevent fraud.",SIM_Activation,High
+TKT-1200,"Urgent: Wi-Fi router red LOS light is blinking continuously, no internet.",Broadband_Tech,High
+TKT-1201,"Hello, Router power adapter stopped working, need replacement. Thanks.",Broadband_Tech,High
+TKT-1202,"Please help! No mobile signal in my area since morning, emergency calls only.",Network,High
+TKT-1203,Unexpected roaming charges added to my bill without international travel. Thanks.,Billing,High
+TKT-1204,"Hello, Mobile data keeps disconnecting while switching towers. Thanks.",Network,Normal
+TKT-1205,"Hello, High ping and packet loss on fiber broadband connection. Ticket raised earlier.",Broadband_Tech,Normal
+TKT-1206,Need a copy of my GST invoice for last month's recharge.,Billing,Normal
+TKT-1207,5G internet speed drops completely every evening in Bhubaneswar. Kindly resolve ASAP.,Network,Normal
+TKT-1208,Please help! How do I change my broadband Wi-Fi password and SSID? Thanks.,Broadband_Tech,Normal
+TKT-1209,"Urgent: No mobile signal in my area since morning, emergency calls only. Ticket raised earlier.",Network,High
+TKT-1210,"Router power adapter stopped working, need replacement. Thanks.",Broadband_Tech,High
+TKT-1211,Urgent: Want to port my number from another operator to your network. Ticket raised earlier.,SIM_Activation,Normal
+TKT-1212,Urgent: Mobile data keeps disconnecting while switching towers. Kindly resolve ASAP.,Network,Normal
+TKT-1213,"Hi team, I was charged twice for my monthly postpaid bill this cycle. Ticket raised earlier.",Billing,High
+TKT-1214,"Hello, 5G internet speed drops completely every evening in Bhubaneswar. Kindly resolve ASAP.",Network,Normal
+TKT-1215,Unexpected roaming charges added to my bill without international travel. Thanks.,Billing,High
+TKT-1216,Zero network bars inside my apartment for the last 2 days.,Network,High
+TKT-1217,"Hi team, How do I change my broadband Wi-Fi password and SSID?",Broadband_Tech,Normal
+TKT-1218,"Hello, My new eSIM activation is stuck for 24 hours, number is dead. Ticket raised earlier.",SIM_Activation,High
+TKT-1219,Mobile data keeps disconnecting while switching towers. Ticket raised earlier.,Network,Normal
+TKT-1220,High ping and packet loss on fiber broadband connection. Thanks.,Broadband_Tech,Normal
+TKT-1221,"Hello, 5G internet speed drops completely every evening in Bhubaneswar. Thanks.",Network,Normal
+TKT-1222,"Hello, Lost my phone, please block my SIM immediately to prevent fraud. Ticket raised earlier.",SIM_Activation,High
+TKT-1223,"Hello, Mobile data keeps disconnecting while switching towers. Kindly resolve ASAP.",Network,Normal
+TKT-1224,Urgent: Unexpected roaming charges added to my bill without international travel. Thanks.,Billing,High
+TKT-1225,High ping and packet loss on fiber broadband connection. Thanks.,Broadband_Tech,Normal
+TKT-1226,"Hello, No mobile signal in my area since morning, emergency calls only. Thanks.",Network,High
+TKT-1227,Please help! How do I change my broadband Wi-Fi password and SSID? Ticket raised earlier.,Broadband_Tech,Normal
+TKT-1228,"Hi team, Frequent call drops during important office meetings.",Network,High
+TKT-1229,"Hello, Mobile data keeps disconnecting while switching towers.",Network,Normal
+TKT-1230,"Please help! No mobile signal in my area since morning, emergency calls only. Thanks.",Network,High
+TKT-1231,"Hi team, Lost my phone, please block my SIM immediately to prevent fraud.",SIM_Activation,High
+TKT-1232,Please help! Unexpected roaming charges added to my bill without international travel.,Billing,High
+TKT-1233,"Hello, Frequent call drops during important office meetings. Kindly resolve ASAP.",Network,High
+TKT-1234,"Hi team, Frequent call drops during important office meetings.",Network,High
+TKT-1235,Urgent: I was charged twice for my monthly postpaid bill this cycle.,Billing,High
+TKT-1236,Please help! 5G internet speed drops completely every evening in Bhubaneswar.,Network,Normal
+TKT-1237,Urgent: KYC verification completed yesterday but SIM still shows no service. Kindly resolve ASAP.,SIM_Activation,High
+TKT-1238,Please help! 5G internet speed drops completely every evening in Bhubaneswar. Thanks.,Network,Normal
+TKT-1239,Please help! Auto-pay deducted money twice from my bank account. Thanks.,Billing,High
+TKT-1240,Urgent: Unexpected roaming charges added to my bill without international travel. Ticket raised earlier.,Billing,High
+TKT-1241,"Hello, I was charged twice for my monthly postpaid bill this cycle. Kindly resolve ASAP.",Billing,High
+TKT-1242,"Hi team, KYC verification completed yesterday but SIM still shows no service.",SIM_Activation,High
+TKT-1243,Urgent: KYC verification completed yesterday but SIM still shows no service. Kindly resolve ASAP.,SIM_Activation,High
+TKT-1244,Please help! 5G internet speed drops completely every evening in Bhubaneswar. Ticket raised earlier.,Network,Normal
+TKT-1245,Please help! How do I upgrade my physical SIM to an eSIM? Thanks.,SIM_Activation,Normal
+TKT-1246,"Hi team, I was charged twice for my monthly postpaid bill this cycle. Ticket raised earlier.",Billing,High
+TKT-1247,"No mobile signal in my area since morning, emergency calls only. Thanks.",Network,High
+TKT-1248,Need technician visit to shift my fiber router to another room. Thanks.,Broadband_Tech,Normal
+TKT-1249,Urgent: 5G internet speed drops completely every evening in Bhubaneswar. Thanks.,Network,Normal
+TKT-1250,Please help! How do I upgrade my physical SIM to an eSIM? Ticket raised earlier.,SIM_Activation,Normal
+TKT-1251,"Please help! Lost my phone, please block my SIM immediately to prevent fraud.",SIM_Activation,High
+TKT-1252,"Hi team, KYC verification completed yesterday but SIM still shows no service. Thanks.",SIM_Activation,High
+TKT-1253,Frequent call drops during important office meetings. Ticket raised earlier.,Network,High
+TKT-1254,Urgent: Unexpected roaming charges added to my bill without international travel. Kindly resolve ASAP.,Billing,High
+TKT-1255,"Hi team, 5G internet speed drops completely every evening in Bhubaneswar. Thanks.",Network,Normal
+TKT-1256,Urgent: Need technician visit to shift my fiber router to another room. Ticket raised earlier.,Broadband_Tech,Normal
+TKT-1257,Please help! Need a copy of my GST invoice for last month's recharge. Ticket raised earlier.,Billing,Normal
+TKT-1258,"Hello, Lost my phone, please block my SIM immediately to prevent fraud. Ticket raised earlier.",SIM_Activation,High
+TKT-1259,Please help! Unexpected roaming charges added to my bill without international travel. Thanks.,Billing,High
+TKT-1260,Please help! Zero network bars inside my apartment for the last 2 days.,Network,High
+TKT-1261,"Please help! Lost my phone, please block my SIM immediately to prevent fraud. Ticket raised earlier.",SIM_Activation,High
+TKT-1262,Urgent: Want to port my number from another operator to your network. Kindly resolve ASAP.,SIM_Activation,Normal
+TKT-1263,"Urgent: Wi-Fi router red LOS light is blinking continuously, no internet. Ticket raised earlier.",Broadband_Tech,High
+TKT-1264,Please help! Please explain the extra value-added service fee on my statement. Thanks.,Billing,Normal
+TKT-1265,"Hi team, Frequent call drops during important office meetings. Ticket raised earlier.",Network,High
+TKT-1266,"Hi team, Need a copy of my GST invoice for last month's recharge. Ticket raised earlier.",Billing,Normal
+TKT-1267,"Lost my phone, please block my SIM immediately to prevent fraud. Kindly resolve ASAP.",SIM_Activation,High
+TKT-1268,Please help! Zero network bars inside my apartment for the last 2 days.,Network,High
+TKT-1269,"Urgent: My new eSIM activation is stuck for 24 hours, number is dead. Kindly resolve ASAP.",SIM_Activation,High
+TKT-1270,"Hello, How do I change my broadband Wi-Fi password and SSID?",Broadband_Tech,Normal
+TKT-1271,Please help! High ping and packet loss on fiber broadband connection. Thanks.,Broadband_Tech,Normal
+TKT-1272,"Hi team, How do I change my broadband Wi-Fi password and SSID? Thanks.",Broadband_Tech,Normal
+TKT-1273,"Hi team, Auto-pay deducted money twice from my bank account.",Billing,High
+TKT-1274,"Please help! My new eSIM activation is stuck for 24 hours, number is dead. Kindly resolve ASAP.",SIM_Activation,High
+TKT-1275,"Hello, Auto-pay deducted money twice from my bank account.",Billing,High
+TKT-1276,Want to port my number from another operator to your network.,SIM_Activation,Normal
+TKT-1277,"Wi-Fi router red LOS light is blinking continuously, no internet. Thanks.",Broadband_Tech,High
+TKT-1278,Urgent: Need a copy of my GST invoice for last month's recharge. Thanks.,Billing,Normal
+TKT-1279,Please help! How do I change my broadband Wi-Fi password and SSID? Kindly resolve ASAP.,Broadband_Tech,Normal
+TKT-1280,"Hi team, Unexpected roaming charges added to my bill without international travel. Ticket raised earlier.",Billing,High
+TKT-1281,Please help! High ping and packet loss on fiber broadband connection. Ticket raised earlier.,Broadband_Tech,Normal
+TKT-1282,"Hi team, KYC verification completed yesterday but SIM still shows no service. Thanks.",SIM_Activation,High
+TKT-1283,"Hello, KYC verification completed yesterday but SIM still shows no service. Ticket raised earlier.",SIM_Activation,High
+TKT-1284,"Hello, Need a copy of my GST invoice for last month's recharge.",Billing,Normal
+TKT-1285,Please help! How do I upgrade my physical SIM to an eSIM?,SIM_Activation,Normal
+TKT-1286,Urgent: Zero network bars inside my apartment for the last 2 days. Thanks.,Network,High
+TKT-1287,Please help! 5G internet speed drops completely every evening in Bhubaneswar. Ticket raised earlier.,Network,Normal
+TKT-1288,Please help! 5G internet speed drops completely every evening in Bhubaneswar. Ticket raised earlier.,Network,Normal
+TKT-1289,Urgent: Want to port my number from another operator to your network. Kindly resolve ASAP.,SIM_Activation,Normal
+TKT-1290,"Hi team, Lost my phone, please block my SIM immediately to prevent fraud. Thanks.",SIM_Activation,High
+TKT-1291,"Hello, Auto-pay deducted money twice from my bank account. Kindly resolve ASAP.",Billing,High
+TKT-1292,"Please help! Wi-Fi router red LOS light is blinking continuously, no internet. Kindly resolve ASAP.",Broadband_Tech,High
+TKT-1293,"Hi team, Want to port my number from another operator to your network. Thanks.",SIM_Activation,Normal
+TKT-1294,"Hi team, Zero network bars inside my apartment for the last 2 days. Kindly resolve ASAP.",Network,High
+TKT-1295,"Hello, No mobile signal in my area since morning, emergency calls only.",Network,High
+TKT-1296,Urgent: Frequent call drops during important office meetings. Kindly resolve ASAP.,Network,High
+TKT-1297,"Hi team, 5G internet speed drops completely every evening in Bhubaneswar. Thanks.",Network,Normal
+TKT-1298,Need technician visit to shift my fiber router to another room. Thanks.,Broadband_Tech,Normal
+TKT-1299,"Urgent: No mobile signal in my area since morning, emergency calls only. Thanks.",Network,High
+TKT-1300,"Hi team, I was charged twice for my monthly postpaid bill this cycle. Kindly resolve ASAP.",Billing,High
+TKT-1301,I was charged twice for my monthly postpaid bill this cycle. Ticket raised earlier.,Billing,High
+TKT-1302,"Hello, Unexpected roaming charges added to my bill without international travel. Kindly resolve ASAP.",Billing,High
+TKT-1303,Unexpected roaming charges added to my bill without international travel. Ticket raised earlier.,Billing,High
+TKT-1304,"Hi team, High ping and packet loss on fiber broadband connection.",Broadband_Tech,Normal
+TKT-1305,"Hi team, I was charged twice for my monthly postpaid bill this cycle. Kindly resolve ASAP.",Billing,High
+TKT-1306,"Urgent: My new eSIM activation is stuck for 24 hours, number is dead.",SIM_Activation,High
+TKT-1307,"Hi team, KYC verification completed yesterday but SIM still shows no service. Ticket raised earlier.",SIM_Activation,High
+TKT-1308,"Hello, I was charged twice for my monthly postpaid bill this cycle.",Billing,High
+TKT-1309,"Hello, Want to port my number from another operator to your network. Thanks.",SIM_Activation,Normal
+TKT-1310,Urgent: How do I change my broadband Wi-Fi password and SSID?,Broadband_Tech,Normal
+TKT-1311,How do I upgrade my physical SIM to an eSIM? Thanks.,SIM_Activation,Normal
+TKT-1312,"Hi team, Mobile data keeps disconnecting while switching towers.",Network,Normal
+TKT-1313,"Hi team, Zero network bars inside my apartment for the last 2 days. Ticket raised earlier.",Network,High
+TKT-1314,"Router power adapter stopped working, need replacement.",Broadband_Tech,High
+TKT-1315,"Hello, My new eSIM activation is stuck for 24 hours, number is dead. Kindly resolve ASAP.",SIM_Activation,High
+TKT-1316,"Hello, I was charged twice for my monthly postpaid bill this cycle.",Billing,High
+TKT-1317,"Hello, I was charged twice for my monthly postpaid bill this cycle. Thanks.",Billing,High
+TKT-1318,"Hello, 5G internet speed drops completely every evening in Bhubaneswar.",Network,Normal
+TKT-1319,"Hello, How do I upgrade my physical SIM to an eSIM?",SIM_Activation,Normal
+TKT-1320,"Urgent: No mobile signal in my area since morning, emergency calls only.",Network,High
+TKT-1321,Please help! Unexpected roaming charges added to my bill without international travel. Kindly resolve ASAP.,Billing,High
+TKT-1322,Urgent: Need technician visit to shift my fiber router to another room. Kindly resolve ASAP.,Broadband_Tech,Normal
+TKT-1323,Please help! Please explain the extra value-added service fee on my statement.,Billing,Normal
+TKT-1324,Please help! KYC verification completed yesterday but SIM still shows no service. Ticket raised earlier.,SIM_Activation,High
+TKT-1325,"Hello, Need technician visit to shift my fiber router to another room. Kindly resolve ASAP.",Broadband_Tech,Normal
+TKT-1326,Urgent: How do I change my broadband Wi-Fi password and SSID?,Broadband_Tech,Normal
+TKT-1327,How do I change my broadband Wi-Fi password and SSID? Ticket raised earlier.,Broadband_Tech,Normal
+TKT-1328,5G internet speed drops completely every evening in Bhubaneswar. Kindly resolve ASAP.,Network,Normal
+TKT-1329,Want to port my number from another operator to your network. Kindly resolve ASAP.,SIM_Activation,Normal
+TKT-1330,Urgent: KYC verification completed yesterday but SIM still shows no service. Ticket raised earlier.,SIM_Activation,High
+TKT-1331,Urgent: 5G internet speed drops completely every evening in Bhubaneswar. Ticket raised earlier.,Network,Normal
+TKT-1332,Urgent: Mobile data keeps disconnecting while switching towers.,Network,Normal
+TKT-1333,Please help! I was charged twice for my monthly postpaid bill this cycle. Thanks.,Billing,High
+TKT-1334,"My new eSIM activation is stuck for 24 hours, number is dead.",SIM_Activation,High
+TKT-1335,Please help! I was charged twice for my monthly postpaid bill this cycle. Kindly resolve ASAP.,Billing,High
+TKT-1336,Urgent: How do I upgrade my physical SIM to an eSIM? Thanks.,SIM_Activation,Normal
+TKT-1337,5G internet speed drops completely every evening in Bhubaneswar. Kindly resolve ASAP.,Network,Normal
+TKT-1338,"Hello, 5G internet speed drops completely every evening in Bhubaneswar. Thanks.",Network,Normal
+TKT-1339,How do I upgrade my physical SIM to an eSIM? Ticket raised earlier.,SIM_Activation,Normal
+TKT-1340,High ping and packet loss on fiber broadband connection. Ticket raised earlier.,Broadband_Tech,Normal
+TKT-1341,Urgent: I was charged twice for my monthly postpaid bill this cycle. Kindly resolve ASAP.,Billing,High
+TKT-1342,"Please help! Router power adapter stopped working, need replacement. Thanks.",Broadband_Tech,High
+TKT-1343,Need technician visit to shift my fiber router to another room. Kindly resolve ASAP.,Broadband_Tech,Normal
+TKT-1344,"Urgent: Lost my phone, please block my SIM immediately to prevent fraud.",SIM_Activation,High
+TKT-1345,Unexpected roaming charges added to my bill without international travel. Kindly resolve ASAP.,Billing,High
+TKT-1346,"Hi team, Zero network bars inside my apartment for the last 2 days. Kindly resolve ASAP.",Network,High
+TKT-1347,"Hi team, Lost my phone, please block my SIM immediately to prevent fraud. Ticket raised earlier.",SIM_Activation,High
+TKT-1348,Please help! Zero network bars inside my apartment for the last 2 days. Kindly resolve ASAP.,Network,High
+TKT-1349,"Hi team, Mobile data keeps disconnecting while switching towers. Thanks.",Network,Normal
+TKT-1350,Urgent: Frequent call drops during important office meetings. Thanks.,Network,High
+TKT-1351,"Hello, My new eSIM activation is stuck for 24 hours, number is dead. Thanks.",SIM_Activation,High
+TKT-1352,"Urgent: Lost my phone, please block my SIM immediately to prevent fraud. Kindly resolve ASAP.",SIM_Activation,High
+TKT-1353,"Hello, Need technician visit to shift my fiber router to another room.",Broadband_Tech,Normal
+TKT-1354,"Router power adapter stopped working, need replacement. Kindly resolve ASAP.",Broadband_Tech,High
+TKT-1355,Urgent: Auto-pay deducted money twice from my bank account. Kindly resolve ASAP.,Billing,High
+TKT-1356,I was charged twice for my monthly postpaid bill this cycle.,Billing,High
+TKT-1357,Urgent: Please explain the extra value-added service fee on my statement. Kindly resolve ASAP.,Billing,Normal
+TKT-1358,"Hi team, How do I change my broadband Wi-Fi password and SSID? Thanks.",Broadband_Tech,Normal
+TKT-1359,"Hello, My new eSIM activation is stuck for 24 hours, number is dead. Kindly resolve ASAP.",SIM_Activation,High
+TKT-1360,Please help! Want to port my number from another operator to your network. Kindly resolve ASAP.,SIM_Activation,Normal
+TKT-1361,"Hi team, No mobile signal in my area since morning, emergency calls only. Thanks.",Network,High
+TKT-1362,Urgent: 5G internet speed drops completely every evening in Bhubaneswar.,Network,Normal
+TKT-1363,"Hi team, Frequent call drops during important office meetings. Kindly resolve ASAP.",Network,High
+TKT-1364,"Please help! No mobile signal in my area since morning, emergency calls only.",Network,High
+TKT-1365,"Hello, Auto-pay deducted money twice from my bank account. Kindly resolve ASAP.",Billing,High
+TKT-1366,Mobile data keeps disconnecting while switching towers.,Network,Normal
+TKT-1367,Need a copy of my GST invoice for last month's recharge. Kindly resolve ASAP.,Billing,Normal
+TKT-1368,"Hi team, Router power adapter stopped working, need replacement. Kindly resolve ASAP.",Broadband_Tech,High
+TKT-1369,Urgent: Need technician visit to shift my fiber router to another room. Ticket raised earlier.,Broadband_Tech,Normal
+TKT-1370,I was charged twice for my monthly postpaid bill this cycle. Ticket raised earlier.,Billing,High
+TKT-1371,KYC verification completed yesterday but SIM still shows no service.,SIM_Activation,High
+TKT-1372,Auto-pay deducted money twice from my bank account. Kindly resolve ASAP.,Billing,High
+TKT-1373,"Hi team, Zero network bars inside my apartment for the last 2 days. Ticket raised earlier.",Network,High
+TKT-1374,Urgent: Auto-pay deducted money twice from my bank account. Ticket raised earlier.,Billing,High
+TKT-1375,Urgent: Mobile data keeps disconnecting while switching towers.,Network,Normal
+TKT-1376,How do I upgrade my physical SIM to an eSIM? Ticket raised earlier.,SIM_Activation,Normal
+TKT-1377,"Hello, KYC verification completed yesterday but SIM still shows no service. Thanks.",SIM_Activation,High
+TKT-1378,"Hello, Need a copy of my GST invoice for last month's recharge. Kindly resolve ASAP.",Billing,Normal
+TKT-1379,"Hi team, Need technician visit to shift my fiber router to another room. Ticket raised earlier.",Broadband_Tech,Normal
+TKT-1380,"Please help! Lost my phone, please block my SIM immediately to prevent fraud. Ticket raised earlier.",SIM_Activation,High
+TKT-1381,"Urgent: Router power adapter stopped working, need replacement. Thanks.",Broadband_Tech,High
+TKT-1382,Please help! How do I upgrade my physical SIM to an eSIM?,SIM_Activation,Normal
+TKT-1383,Urgent: Zero network bars inside my apartment for the last 2 days. Thanks.,Network,High
+TKT-1384,Please help! High ping and packet loss on fiber broadband connection. Ticket raised earlier.,Broadband_Tech,Normal
+TKT-1385,Urgent: Want to port my number from another operator to your network.,SIM_Activation,Normal
+TKT-1386,Urgent: Frequent call drops during important office meetings. Ticket raised earlier.,Network,High
+TKT-1387,"Hello, Please explain the extra value-added service fee on my statement.",Billing,Normal
+TKT-1388,"Please help! Wi-Fi router red LOS light is blinking continuously, no internet. Thanks.",Broadband_Tech,High
+TKT-1389,"Hello, Router power adapter stopped working, need replacement. Ticket raised earlier.",Broadband_Tech,High
+TKT-1390,"Hi team, My new eSIM activation is stuck for 24 hours, number is dead. Kindly resolve ASAP.",SIM_Activation,High
+TKT-1391,5G internet speed drops completely every evening in Bhubaneswar. Kindly resolve ASAP.,Network,Normal
+TKT-1392,Please help! Auto-pay deducted money twice from my bank account.,Billing,High
+TKT-1393,"Hi team, Auto-pay deducted money twice from my bank account. Thanks.",Billing,High
+TKT-1394,Urgent: Auto-pay deducted money twice from my bank account. Thanks.,Billing,High
+TKT-1395,I was charged twice for my monthly postpaid bill this cycle. Thanks.,Billing,High
+TKT-1396,"Hello, Unexpected roaming charges added to my bill without international travel. Thanks.",Billing,High
+TKT-1397,Urgent: How do I upgrade my physical SIM to an eSIM? Ticket raised earlier.,SIM_Activation,Normal
+TKT-1398,"Hello, Frequent call drops during important office meetings. Thanks.",Network,High
+TKT-1399,"Hi team, How do I change my broadband Wi-Fi password and SSID? Ticket raised earlier.",Broadband_Tech,Normal
+TKT-1400,"Please help! Wi-Fi router red LOS light is blinking continuously, no internet. Kindly resolve ASAP.",Broadband_Tech,High
+TKT-1401,"Please help! No mobile signal in my area since morning, emergency calls only. Ticket raised earlier.",Network,High
+TKT-1402,"Hello, Mobile data keeps disconnecting while switching towers. Kindly resolve ASAP.",Network,Normal
+TKT-1403,"Hello, How do I change my broadband Wi-Fi password and SSID? Kindly resolve ASAP.",Broadband_Tech,Normal
+TKT-1404,KYC verification completed yesterday but SIM still shows no service.,SIM_Activation,High
+TKT-1405,Please help! Zero network bars inside my apartment for the last 2 days.,Network,High
+TKT-1406,"Urgent: Router power adapter stopped working, need replacement.",Broadband_Tech,High
+TKT-1407,Please help! Zero network bars inside my apartment for the last 2 days. Kindly resolve ASAP.,Network,High
+TKT-1408,"Hello, No mobile signal in my area since morning, emergency calls only. Ticket raised earlier.",Network,High
+TKT-1409,Need technician visit to shift my fiber router to another room. Thanks.,Broadband_Tech,Normal
+TKT-1410,Please help! Unexpected roaming charges added to my bill without international travel. Ticket raised earlier.,Billing,High
+TKT-1411,"Hi team, Please explain the extra value-added service fee on my statement. Kindly resolve ASAP.",Billing,Normal
+TKT-1412,Zero network bars inside my apartment for the last 2 days. Kindly resolve ASAP.,Network,High
+TKT-1413,"Hello, Please explain the extra value-added service fee on my statement. Thanks.",Billing,Normal
+TKT-1414,Want to port my number from another operator to your network. Ticket raised earlier.,SIM_Activation,Normal
+TKT-1415,Please help! Mobile data keeps disconnecting while switching towers. Ticket raised earlier.,Network,Normal
+TKT-1416,Urgent: KYC verification completed yesterday but SIM still shows no service. Ticket raised earlier.,SIM_Activation,High
+TKT-1417,How do I change my broadband Wi-Fi password and SSID? Kindly resolve ASAP.,Broadband_Tech,Normal
+TKT-1418,Urgent: Unexpected roaming charges added to my bill without international travel. Ticket raised earlier.,Billing,High
+TKT-1419,"Hi team, Wi-Fi router red LOS light is blinking continuously, no internet. Ticket raised earlier.",Broadband_Tech,High
+TKT-1420,"Hi team, KYC verification completed yesterday but SIM still shows no service. Kindly resolve ASAP.",SIM_Activation,High
+TKT-1421,Urgent: I was charged twice for my monthly postpaid bill this cycle. Thanks.,Billing,High
+TKT-1422,Urgent: Want to port my number from another operator to your network. Kindly resolve ASAP.,SIM_Activation,Normal
+TKT-1423,Please help! Want to port my number from another operator to your network.,SIM_Activation,Normal
+TKT-1424,Urgent: Frequent call drops during important office meetings. Thanks.,Network,High
+TKT-1425,Urgent: Zero network bars inside my apartment for the last 2 days.,Network,High
+TKT-1426,"Hi team, KYC verification completed yesterday but SIM still shows no service.",SIM_Activation,High
+TKT-1427,"Hello, KYC verification completed yesterday but SIM still shows no service. Thanks.",SIM_Activation,High
+TKT-1428,Urgent: Please explain the extra value-added service fee on my statement. Thanks.,Billing,Normal
+TKT-1429,Frequent call drops during important office meetings.,Network,High
+TKT-1430,5G internet speed drops completely every evening in Bhubaneswar.,Network,Normal
+TKT-1431,Please explain the extra value-added service fee on my statement.,Billing,Normal
+TKT-1432,"Hello, Lost my phone, please block my SIM immediately to prevent fraud. Thanks.",SIM_Activation,High
+TKT-1433,Please help! Unexpected roaming charges added to my bill without international travel.,Billing,High
+TKT-1434,Urgent: Please explain the extra value-added service fee on my statement. Ticket raised earlier.,Billing,Normal
+TKT-1435,"Hi team, High ping and packet loss on fiber broadband connection. Ticket raised earlier.",Broadband_Tech,Normal
+TKT-1436,"Hi team, I was charged twice for my monthly postpaid bill this cycle. Kindly resolve ASAP.",Billing,High
+TKT-1437,Please help! How do I upgrade my physical SIM to an eSIM? Ticket raised earlier.,SIM_Activation,Normal
+TKT-1438,Urgent: Unexpected roaming charges added to my bill without international travel. Ticket raised earlier.,Billing,High
+TKT-1439,Please explain the extra value-added service fee on my statement. Kindly resolve ASAP.,Billing,Normal
+TKT-1440,Please help! Need a copy of my GST invoice for last month's recharge. Thanks.,Billing,Normal
+TKT-1441,High ping and packet loss on fiber broadband connection. Kindly resolve ASAP.,Broadband_Tech,Normal
+TKT-1442,Need a copy of my GST invoice for last month's recharge. Kindly resolve ASAP.,Billing,Normal
+TKT-1443,"Hello, Please explain the extra value-added service fee on my statement.",Billing,Normal
+TKT-1444,"Please help! My new eSIM activation is stuck for 24 hours, number is dead. Kindly resolve ASAP.",SIM_Activation,High
+TKT-1445,Please help! Want to port my number from another operator to your network. Ticket raised earlier.,SIM_Activation,Normal
+TKT-1446,Please help! Want to port my number from another operator to your network. Thanks.,SIM_Activation,Normal
+TKT-1447,Please help! Want to port my number from another operator to your network.,SIM_Activation,Normal
+TKT-1448,Urgent: High ping and packet loss on fiber broadband connection.,Broadband_Tech,Normal
+TKT-1449,High ping and packet loss on fiber broadband connection. Ticket raised earlier.,Broadband_Tech,Normal
+TKT-1450,Please help! Please explain the extra value-added service fee on my statement.,Billing,Normal
+TKT-1451,Urgent: Unexpected roaming charges added to my bill without international travel. Thanks.,Billing,High
+TKT-1452,Urgent: I was charged twice for my monthly postpaid bill this cycle.,Billing,High
+TKT-1453,Please help! How do I change my broadband Wi-Fi password and SSID? Thanks.,Broadband_Tech,Normal
+TKT-1454,Urgent: Mobile data keeps disconnecting while switching towers.,Network,Normal
+TKT-1455,Please help! KYC verification completed yesterday but SIM still shows no service. Thanks.,SIM_Activation,High
+TKT-1456,"Please help! My new eSIM activation is stuck for 24 hours, number is dead. Kindly resolve ASAP.",SIM_Activation,High
+TKT-1457,Please help! Please explain the extra value-added service fee on my statement.,Billing,Normal
+TKT-1458,I was charged twice for my monthly postpaid bill this cycle. Ticket raised earlier.,Billing,High
+TKT-1459,"Urgent: Lost my phone, please block my SIM immediately to prevent fraud. Ticket raised earlier.",SIM_Activation,High
+TKT-1460,"Hello, Zero network bars inside my apartment for the last 2 days. Kindly resolve ASAP.",Network,High
+TKT-1461,Please help! Mobile data keeps disconnecting while switching towers. Thanks.,Network,Normal
+TKT-1462,Please help! Need technician visit to shift my fiber router to another room. Ticket raised earlier.,Broadband_Tech,Normal
+TKT-1463,"Urgent: Lost my phone, please block my SIM immediately to prevent fraud. Ticket raised earlier.",SIM_Activation,High
+TKT-1464,"Urgent: Wi-Fi router red LOS light is blinking continuously, no internet. Ticket raised earlier.",Broadband_Tech,High
+TKT-1465,"Hello, Frequent call drops during important office meetings. Ticket raised earlier.",Network,High
+TKT-1466,Urgent: 5G internet speed drops completely every evening in Bhubaneswar. Thanks.,Network,Normal
+TKT-1467,"Hello, My new eSIM activation is stuck for 24 hours, number is dead. Kindly resolve ASAP.",SIM_Activation,High
+TKT-1468,Zero network bars inside my apartment for the last 2 days. Kindly resolve ASAP.,Network,High
+TKT-1469,Urgent: Need a copy of my GST invoice for last month's recharge. Thanks.,Billing,Normal
+TKT-1470,Need technician visit to shift my fiber router to another room. Kindly resolve ASAP.,Broadband_Tech,Normal
+TKT-1471,"Hi team, Zero network bars inside my apartment for the last 2 days. Ticket raised earlier.",Network,High
+TKT-1472,Please explain the extra value-added service fee on my statement. Ticket raised earlier.,Billing,Normal
+TKT-1473,"Hello, Frequent call drops during important office meetings. Kindly resolve ASAP.",Network,High
+TKT-1474,Urgent: Mobile data keeps disconnecting while switching towers. Thanks.,Network,Normal
+TKT-1475,Urgent: 5G internet speed drops completely every evening in Bhubaneswar. Kindly resolve ASAP.,Network,Normal
+TKT-1476,"Urgent: My new eSIM activation is stuck for 24 hours, number is dead.",SIM_Activation,High
+TKT-1477,"Router power adapter stopped working, need replacement. Ticket raised earlier.",Broadband_Tech,High
+TKT-1478,"Hello, Mobile data keeps disconnecting while switching towers. Kindly resolve ASAP.",Network,Normal
+TKT-1479,"Hi team, Need technician visit to shift my fiber router to another room. Ticket raised earlier.",Broadband_Tech,Normal
+TKT-1480,"Hello, No mobile signal in my area since morning, emergency calls only.",Network,High
+TKT-1481,Frequent call drops during important office meetings. Ticket raised earlier.,Network,High
+TKT-1482,"Hi team, Need a copy of my GST invoice for last month's recharge. Kindly resolve ASAP.",Billing,Normal
+TKT-1483,"Hi team, Need a copy of my GST invoice for last month's recharge. Kindly resolve ASAP.",Billing,Normal
+TKT-1484,Please help! KYC verification completed yesterday but SIM still shows no service. Thanks.,SIM_Activation,High
+TKT-1485,Zero network bars inside my apartment for the last 2 days. Kindly resolve ASAP.,Network,High
+TKT-1486,How do I upgrade my physical SIM to an eSIM? Thanks.,SIM_Activation,Normal
+TKT-1487,Urgent: Zero network bars inside my apartment for the last 2 days. Ticket raised earlier.,Network,High
+TKT-1488,Urgent: High ping and packet loss on fiber broadband connection. Ticket raised earlier.,Broadband_Tech,Normal
+TKT-1489,"Please help! Router power adapter stopped working, need replacement.",Broadband_Tech,High
+TKT-1490,Urgent: I was charged twice for my monthly postpaid bill this cycle.,Billing,High
+TKT-1491,Please help! Zero network bars inside my apartment for the last 2 days.,Network,High
+TKT-1492,"Hi team, How do I upgrade my physical SIM to an eSIM? Thanks.",SIM_Activation,Normal
+TKT-1493,Auto-pay deducted money twice from my bank account. Thanks.,Billing,High
+TKT-1494,"Hi team, Unexpected roaming charges added to my bill without international travel. Kindly resolve ASAP.",Billing,High
+TKT-1495,"Hi team, My new eSIM activation is stuck for 24 hours, number is dead. Ticket raised earlier.",SIM_Activation,High
+TKT-1496,"Hello, Mobile data keeps disconnecting while switching towers. Ticket raised earlier.",Network,Normal
+TKT-1497,"Hello, 5G internet speed drops completely every evening in Bhubaneswar. Kindly resolve ASAP.",Network,Normal
+TKT-1498,Urgent: Need a copy of my GST invoice for last month's recharge. Ticket raised earlier.,Billing,Normal
+TKT-1499,Please help! Auto-pay deducted money twice from my bank account.,Billing,High
+TKT-1500,Urgent: Zero network bars inside my apartment for the last 2 days. Ticket raised earlier.,Network,High
+TKT-1501,Please help! KYC verification completed yesterday but SIM still shows no service. Kindly resolve ASAP.,SIM_Activation,High
+TKT-1502,"Hi team, High ping and packet loss on fiber broadband connection. Ticket raised earlier.",Broadband_Tech,Normal
+TKT-1503,"Please help! Router power adapter stopped working, need replacement. Thanks.",Broadband_Tech,High
+TKT-1504,KYC verification completed yesterday but SIM still shows no service. Ticket raised earlier.,SIM_Activation,High
+TKT-1505,Urgent: Zero network bars inside my apartment for the last 2 days. Kindly resolve ASAP.,Network,High
+TKT-1506,"Hi team, Need technician visit to shift my fiber router to another room. Ticket raised earlier.",Broadband_Tech,Normal
+TKT-1507,Please help! How do I change my broadband Wi-Fi password and SSID? Kindly resolve ASAP.,Broadband_Tech,Normal
+TKT-1508,Please help! 5G internet speed drops completely every evening in Bhubaneswar. Ticket raised earlier.,Network,Normal
+TKT-1509,"Urgent: Wi-Fi router red LOS light is blinking continuously, no internet. Kindly resolve ASAP.",Broadband_Tech,High
+TKT-1510,"Hi team, High ping and packet loss on fiber broadband connection. Ticket raised earlier.",Broadband_Tech,Normal
+TKT-1511,Urgent: Need technician visit to shift my fiber router to another room.,Broadband_Tech,Normal
+TKT-1512,"Lost my phone, please block my SIM immediately to prevent fraud. Thanks.",SIM_Activation,High
+TKT-1513,KYC verification completed yesterday but SIM still shows no service.,SIM_Activation,High
+TKT-1514,Urgent: Need technician visit to shift my fiber router to another room. Ticket raised earlier.,Broadband_Tech,Normal
+TKT-1515,"Hi team, 5G internet speed drops completely every evening in Bhubaneswar. Thanks.",Network,Normal
+TKT-1516,"Hi team, Mobile data keeps disconnecting while switching towers. Kindly resolve ASAP.",Network,Normal
+TKT-1517,Need a copy of my GST invoice for last month's recharge. Thanks.,Billing,Normal
+TKT-1518,Urgent: Zero network bars inside my apartment for the last 2 days. Ticket raised earlier.,Network,High
+TKT-1519,"Hi team, Router power adapter stopped working, need replacement.",Broadband_Tech,High
+TKT-1520,"Hi team, Lost my phone, please block my SIM immediately to prevent fraud. Ticket raised earlier.",SIM_Activation,High
+TKT-1521,"Hello, Please explain the extra value-added service fee on my statement. Kindly resolve ASAP.",Billing,Normal
+TKT-1522,"Hi team, High ping and packet loss on fiber broadband connection. Ticket raised earlier.",Broadband_Tech,Normal
+TKT-1523,Urgent: Need technician visit to shift my fiber router to another room.,Broadband_Tech,Normal
+TKT-1524,Please help! Mobile data keeps disconnecting while switching towers. Ticket raised earlier.,Network,Normal
+TKT-1525,"Hello, How do I upgrade my physical SIM to an eSIM? Thanks.",SIM_Activation,Normal
+TKT-1526,"Urgent: Wi-Fi router red LOS light is blinking continuously, no internet.",Broadband_Tech,High
+TKT-1527,"My new eSIM activation is stuck for 24 hours, number is dead. Kindly resolve ASAP.",SIM_Activation,High
+TKT-1528,Urgent: I was charged twice for my monthly postpaid bill this cycle.,Billing,High
+TKT-1529,Need a copy of my GST invoice for last month's recharge.,Billing,Normal
+TKT-1530,Auto-pay deducted money twice from my bank account. Ticket raised earlier.,Billing,High
+TKT-1531,Urgent: Unexpected roaming charges added to my bill without international travel. Ticket raised earlier.,Billing,High
+TKT-1532,"Hello, Lost my phone, please block my SIM immediately to prevent fraud.",SIM_Activation,High
+TKT-1533,"Hello, Router power adapter stopped working, need replacement. Kindly resolve ASAP.",Broadband_Tech,High
+TKT-1534,"Please help! No mobile signal in my area since morning, emergency calls only.",Network,High
+TKT-1535,"Hi team, KYC verification completed yesterday but SIM still shows no service. Thanks.",SIM_Activation,High
+TKT-1536,Frequent call drops during important office meetings. Kindly resolve ASAP.,Network,High
+TKT-1537,Want to port my number from another operator to your network. Kindly resolve ASAP.,SIM_Activation,Normal
+TKT-1538,Please help! KYC verification completed yesterday but SIM still shows no service. Kindly resolve ASAP.,SIM_Activation,High
+TKT-1539,"Hello, Router power adapter stopped working, need replacement. Thanks.",Broadband_Tech,High
+TKT-1540,"Hello, I was charged twice for my monthly postpaid bill this cycle. Thanks.",Billing,High
+TKT-1541,"Hello, Zero network bars inside my apartment for the last 2 days.",Network,High
+TKT-1542,"Hi team, Need technician visit to shift my fiber router to another room.",Broadband_Tech,Normal
+TKT-1543,"Hi team, No mobile signal in my area since morning, emergency calls only.",Network,High
+TKT-1544,"Urgent: Lost my phone, please block my SIM immediately to prevent fraud. Thanks.",SIM_Activation,High
+TKT-1545,Please help! I was charged twice for my monthly postpaid bill this cycle. Kindly resolve ASAP.,Billing,High
+TKT-1546,Please help! Unexpected roaming charges added to my bill without international travel. Kindly resolve ASAP.,Billing,High
+TKT-1547,Urgent: High ping and packet loss on fiber broadband connection. Ticket raised earlier.,Broadband_Tech,Normal
+TKT-1548,"Hi team, Auto-pay deducted money twice from my bank account. Ticket raised earlier.",Billing,High
+TKT-1549,Please help! I was charged twice for my monthly postpaid bill this cycle. Ticket raised earlier.,Billing,High
+TKT-1550,Mobile data keeps disconnecting while switching towers. Ticket raised earlier.,Network,Normal
+TKT-1551,Urgent: Frequent call drops during important office meetings. Ticket raised earlier.,Network,High
+TKT-1552,Please help! Mobile data keeps disconnecting while switching towers.,Network,Normal
+TKT-1553,"Urgent: Wi-Fi router red LOS light is blinking continuously, no internet. Kindly resolve ASAP.",Broadband_Tech,High
+TKT-1554,Need a copy of my GST invoice for last month's recharge.,Billing,Normal
+TKT-1555,Want to port my number from another operator to your network. Kindly resolve ASAP.,SIM_Activation,Normal
+TKT-1556,Urgent: Need a copy of my GST invoice for last month's recharge.,Billing,Normal
+TKT-1557,"Urgent: Lost my phone, please block my SIM immediately to prevent fraud. Thanks.",SIM_Activation,High
+TKT-1558,"Router power adapter stopped working, need replacement. Thanks.",Broadband_Tech,High
+TKT-1559,"Hello, Frequent call drops during important office meetings. Kindly resolve ASAP.",Network,High
+TKT-1560,Please help! Frequent call drops during important office meetings. Ticket raised earlier.,Network,High
+TKT-1561,Please help! Want to port my number from another operator to your network. Thanks.,SIM_Activation,Normal
+TKT-1562,Urgent: Frequent call drops during important office meetings.,Network,High
+TKT-1563,How do I upgrade my physical SIM to an eSIM? Ticket raised earlier.,SIM_Activation,Normal
+TKT-1564,Need technician visit to shift my fiber router to another room. Ticket raised earlier.,Broadband_Tech,Normal
+TKT-1565,"Hello, Please explain the extra value-added service fee on my statement. Thanks.",Billing,Normal
+TKT-1566,"My new eSIM activation is stuck for 24 hours, number is dead.",SIM_Activation,High
+TKT-1567,Please help! I was charged twice for my monthly postpaid bill this cycle.,Billing,High
+TKT-1568,"Hello, Frequent call drops during important office meetings.",Network,High
+TKT-1569,"Hello, Frequent call drops during important office meetings. Thanks.",Network,High
+TKT-1570,"Urgent: Lost my phone, please block my SIM immediately to prevent fraud. Kindly resolve ASAP.",SIM_Activation,High
+TKT-1571,Please help! Mobile data keeps disconnecting while switching towers. Kindly resolve ASAP.,Network,Normal
+TKT-1572,"Urgent: Lost my phone, please block my SIM immediately to prevent fraud.",SIM_Activation,High
+TKT-1573,Auto-pay deducted money twice from my bank account. Thanks.,Billing,High
+TKT-1574,"Hello, Need technician visit to shift my fiber router to another room. Kindly resolve ASAP.",Broadband_Tech,Normal
+TKT-1575,"Hi team, My new eSIM activation is stuck for 24 hours, number is dead. Thanks.",SIM_Activation,High
+TKT-1576,Urgent: Mobile data keeps disconnecting while switching towers. Ticket raised earlier.,Network,Normal
+TKT-1577,"Hello, Wi-Fi router red LOS light is blinking continuously, no internet. Kindly resolve ASAP.",Broadband_Tech,High
+TKT-1578,"Hello, My new eSIM activation is stuck for 24 hours, number is dead.",SIM_Activation,High
+TKT-1579,Please help! KYC verification completed yesterday but SIM still shows no service. Thanks.,SIM_Activation,High
+TKT-1580,Want to port my number from another operator to your network.,SIM_Activation,Normal
+TKT-1581,"Hello, Want to port my number from another operator to your network. Ticket raised earlier.",SIM_Activation,Normal
+TKT-1582,Please help! 5G internet speed drops completely every evening in Bhubaneswar. Ticket raised earlier.,Network,Normal
+TKT-1583,"Please help! My new eSIM activation is stuck for 24 hours, number is dead.",SIM_Activation,High
+TKT-1584,How do I upgrade my physical SIM to an eSIM?,SIM_Activation,Normal
+TKT-1585,"Hi team, My new eSIM activation is stuck for 24 hours, number is dead. Ticket raised earlier.",SIM_Activation,High
+TKT-1586,"No mobile signal in my area since morning, emergency calls only.",Network,High
+TKT-1587,Urgent: High ping and packet loss on fiber broadband connection. Thanks.,Broadband_Tech,Normal
+TKT-1588,"Hello, No mobile signal in my area since morning, emergency calls only. Thanks.",Network,High
+TKT-1589,"Hi team, Mobile data keeps disconnecting while switching towers. Thanks.",Network,Normal
+TKT-1590,Please help! How do I upgrade my physical SIM to an eSIM? Kindly resolve ASAP.,SIM_Activation,Normal
+TKT-1591,"Urgent: Lost my phone, please block my SIM immediately to prevent fraud.",SIM_Activation,High
+TKT-1592,Urgent: Want to port my number from another operator to your network. Thanks.,SIM_Activation,Normal
+TKT-1593,"Hi team, I was charged twice for my monthly postpaid bill this cycle. Kindly resolve ASAP.",Billing,High
+TKT-1594,I was charged twice for my monthly postpaid bill this cycle. Kindly resolve ASAP.,Billing,High
+TKT-1595,"Hello, Wi-Fi router red LOS light is blinking continuously, no internet. Thanks.",Broadband_Tech,High
+TKT-1596,Unexpected roaming charges added to my bill without international travel.,Billing,High
+TKT-1597,"Wi-Fi router red LOS light is blinking continuously, no internet. Kindly resolve ASAP.",Broadband_Tech,High
+TKT-1598,Auto-pay deducted money twice from my bank account. Ticket raised earlier.,Billing,High
+TKT-1599,Please help! Zero network bars inside my apartment for the last 2 days. Ticket raised earlier.,Network,High
+TKT-1600,"Please help! No mobile signal in my area since morning, emergency calls only. Kindly resolve ASAP.",Network,High
