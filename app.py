@@ -1,5 +1,7 @@
+import os
 import re
 import sqlite3
+import subprocess
 from datetime import datetime
 import joblib
 from fastapi import FastAPI, HTTPException
@@ -11,7 +13,13 @@ app = FastAPI(
     description="Automatically classifies customer complaints by department and urgency."
 )
 
-# 2. Load the trained AI models we saved in Day 1
+# Auto-train model on first cloud startup if .joblib doesn't exist yet
+if not os.path.exists("triage_models.joblib"):
+    if not os.path.exists("telecom_complaints.csv"):
+        subprocess.run(["python", "data_gen.py"], check=True)
+    subprocess.run(["python", "train.py"], check=True)
+
+# 2. Load the trained AI models
 models = joblib.load("triage_models.joblib")
 dept_model = models["dept_model"]
 urg_model = models["urg_model"]
