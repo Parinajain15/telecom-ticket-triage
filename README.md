@@ -1,4 +1,5 @@
 # Telecom Complaint Triage & Auto-Routing API
+**Live Interactive API Docs:** [https://telecom-ticket-triage.onrender.com/docs](https://telecom-ticket-triage.onrender.com/docs) *(Note: Hosted on Render free tier; initial request may take ~30s to wake up).*
 
 An end-to-end NLP classification and REST API microservice that automatically routes unstructured telecom customer complaints to the appropriate support department (`Network`, `Billing`, `SIM_Activation`, `Broadband_Tech`) and assigns an urgency level (`High` vs. `Normal`) with confidence scoring and SQLite persistence.
 
